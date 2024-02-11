@@ -1,0 +1,1 @@
+#3. Write the python program to create the multiplication table (from 1-12) of a given number.X = int(input('Enter a number: '))for i in range(1,13):         print(X,'x',i,'=',X*i)
